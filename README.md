@@ -73,7 +73,7 @@ This will run the project on localhost:8080, you can check it by going into your
 
 # 5. Now to add everything in your git hub repository use the following commands
 
-    ```powershell
+    ``` powershell
             git add -A
             git commit -sm "Initialize Node Project"
             git checkout -b main
