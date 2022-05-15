@@ -19,9 +19,8 @@ I am using a windows machine thus D:\nodeCICD is my working directory (This crea
 
 # 3. Node now initialize the folder with node use the below command
 
-    ``` powershell
+    ```powershell
         D:\nodeCICD> node init
-
     ````
 
 This creates a package.json fle in your working directory with all node project related dependencies and project attributes.
@@ -64,9 +63,7 @@ You can use the below code in your index.js file:-
 # 5. To run the project use the below command
 
 ```powershell
-
     node index.js
-
 ```
 
 This will run the project on localhost:8080, you can check it by going into your browser and typing localhost:8080 as well.
