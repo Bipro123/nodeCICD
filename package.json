@@ -1,0 +1,22 @@
+{
+  "name": "nodecicd",
+  "version": "0.0.1",
+  "description": "Node Application to test simple CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bipro123/nodeCICD.git"
+  },
+  "author": "Biprajit Saha Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bipro123/nodeCICD/issues"
+  },
+  "homepage": "https://github.com/Bipro123/nodeCICD#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
