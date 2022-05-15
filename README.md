@@ -19,7 +19,7 @@ I am using a windows machine thus D:\nodeCICD is my working directory (This crea
 
 # 3. Node now initialize the folder with node use the below command
 
-    ```powershell
+    ``` powershell
         D:\nodeCICD> node init
 
     ````
